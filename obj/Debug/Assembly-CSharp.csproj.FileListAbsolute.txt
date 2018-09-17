@@ -1,0 +1,2 @@
+/Users/chengjieliang/Documents/Ryan/Unity_Project/Test_Project/CSC404-Assignment/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/chengjieliang/Documents/Ryan/Unity_Project/Test_Project/CSC404-Assignment/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
