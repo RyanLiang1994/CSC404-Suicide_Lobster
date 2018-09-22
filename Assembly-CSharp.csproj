@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{5D25F7FD-C1B6-AA18-DA90-EFFCC924B049}</ProjectGuid>
+    <ProjectGuid>{F38D6130-CC71-4110-0213-753BBFBFD7A2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,18 +61,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\clickLoadScene.cs" />
     <Compile Include="Assets\jump.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/chengjieliang/Documents/Ryan/Unity_Project/Test_Project/CSC404-Assignment/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/chengjieliang/Documents/Ryan/UofT/Level-4/CSC404/GameJam/CSC404-Suicide_Lobster/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/chengjieliang/Documents/Ryan/Unity_Project/Test_Project/CSC404-Assignment/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/chengjieliang/Documents/Ryan/UofT/Level-4/CSC404/GameJam/CSC404-Suicide_Lobster/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/chengjieliang/Documents/Ryan/Unity_Project/Test_Project/CSC404-Assignment/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/chengjieliang/Documents/Ryan/UofT/Level-4/CSC404/GameJam/CSC404-Suicide_Lobster/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/chengjieliang/Documents/Ryan/Unity_Project/Test_Project/CSC404-Assignment/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/chengjieliang/Documents/Ryan/UofT/Level-4/CSC404/GameJam/CSC404-Suicide_Lobster/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2018.2.2f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
